@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navbar {
+    background: green;
+    padding: 25px;
+    color: white;
+    text-align: left;
+  }
+  
